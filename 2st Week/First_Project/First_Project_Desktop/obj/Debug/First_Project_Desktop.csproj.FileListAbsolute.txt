@@ -1,0 +1,15 @@
+D:\Kateb\7th Semester\C#\Week-02\First_Project\First_Project_Desktop\bin\Debug\First_Project_Desktop.exe.config
+D:\Kateb\7th Semester\C#\Week-02\First_Project\First_Project_Desktop\bin\Debug\First_Project_Desktop.exe
+D:\Kateb\7th Semester\C#\Week-02\First_Project\First_Project_Desktop\bin\Debug\First_Project_Desktop.pdb
+D:\Kateb\7th Semester\C#\Week-02\First_Project\First_Project_Desktop\obj\Debug\First_Project_Desktop.csprojAssemblyReference.cache
+D:\Kateb\7th Semester\C#\Week-02\First_Project\First_Project_Desktop\obj\Debug\MainWindow.g.cs
+D:\Kateb\7th Semester\C#\Week-02\First_Project\First_Project_Desktop\obj\Debug\App.g.cs
+D:\Kateb\7th Semester\C#\Week-02\First_Project\First_Project_Desktop\obj\Debug\First_Project_Desktop_MarkupCompile.cache
+D:\Kateb\7th Semester\C#\Week-02\First_Project\First_Project_Desktop\obj\Debug\First_Project_Desktop_MarkupCompile.lref
+D:\Kateb\7th Semester\C#\Week-02\First_Project\First_Project_Desktop\obj\Debug\MainWindow.baml
+D:\Kateb\7th Semester\C#\Week-02\First_Project\First_Project_Desktop\obj\Debug\First_Project_Desktop.g.resources
+D:\Kateb\7th Semester\C#\Week-02\First_Project\First_Project_Desktop\obj\Debug\First_Project_Desktop.Properties.Resources.resources
+D:\Kateb\7th Semester\C#\Week-02\First_Project\First_Project_Desktop\obj\Debug\First_Project_Desktop.csproj.GenerateResource.cache
+D:\Kateb\7th Semester\C#\Week-02\First_Project\First_Project_Desktop\obj\Debug\First_Project_Desktop.csproj.CoreCompileInputs.cache
+D:\Kateb\7th Semester\C#\Week-02\First_Project\First_Project_Desktop\obj\Debug\First_Project_Desktop.exe
+D:\Kateb\7th Semester\C#\Week-02\First_Project\First_Project_Desktop\obj\Debug\First_Project_Desktop.pdb

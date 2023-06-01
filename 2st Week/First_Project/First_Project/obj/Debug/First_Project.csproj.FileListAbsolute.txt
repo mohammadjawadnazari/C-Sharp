@@ -1,0 +1,7 @@
+D:\Kateb\7th Semester\C#\Week-02\First_Project\First_Project\bin\Debug\First_Project.exe.config
+D:\Kateb\7th Semester\C#\Week-02\First_Project\First_Project\bin\Debug\First_Project.exe
+D:\Kateb\7th Semester\C#\Week-02\First_Project\First_Project\bin\Debug\First_Project.pdb
+D:\Kateb\7th Semester\C#\Week-02\First_Project\First_Project\obj\Debug\First_Project.csprojAssemblyReference.cache
+D:\Kateb\7th Semester\C#\Week-02\First_Project\First_Project\obj\Debug\First_Project.csproj.CoreCompileInputs.cache
+D:\Kateb\7th Semester\C#\Week-02\First_Project\First_Project\obj\Debug\First_Project.exe
+D:\Kateb\7th Semester\C#\Week-02\First_Project\First_Project\obj\Debug\First_Project.pdb

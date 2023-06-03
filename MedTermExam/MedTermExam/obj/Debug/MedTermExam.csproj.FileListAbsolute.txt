@@ -1,0 +1,7 @@
+D:\Kateb\7th Semester\C#\MedTermExam\MedTermExam\bin\Debug\MedTermExam.exe.config
+D:\Kateb\7th Semester\C#\MedTermExam\MedTermExam\bin\Debug\MedTermExam.exe
+D:\Kateb\7th Semester\C#\MedTermExam\MedTermExam\bin\Debug\MedTermExam.pdb
+D:\Kateb\7th Semester\C#\MedTermExam\MedTermExam\obj\Debug\MedTermExam.csprojAssemblyReference.cache
+D:\Kateb\7th Semester\C#\MedTermExam\MedTermExam\obj\Debug\MedTermExam.csproj.CoreCompileInputs.cache
+D:\Kateb\7th Semester\C#\MedTermExam\MedTermExam\obj\Debug\MedTermExam.exe
+D:\Kateb\7th Semester\C#\MedTermExam\MedTermExam\obj\Debug\MedTermExam.pdb

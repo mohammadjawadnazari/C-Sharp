@@ -1,0 +1,14 @@
+C:\Users\NAZARI\source\repos\Week-7\BankBenifits\bin\Debug\BankBenifits.exe.config
+C:\Users\NAZARI\source\repos\Week-7\BankBenifits\bin\Debug\BankBenifits.exe
+C:\Users\NAZARI\source\repos\Week-7\BankBenifits\bin\Debug\BankBenifits.pdb
+C:\Users\NAZARI\source\repos\Week-7\BankBenifits\obj\Debug\BankBenifits.csprojAssemblyReference.cache
+C:\Users\NAZARI\source\repos\Week-7\BankBenifits\obj\Debug\BankBenifits.csproj.CoreCompileInputs.cache
+C:\Users\NAZARI\source\repos\Week-7\BankBenifits\obj\Debug\BankBenifits.exe
+C:\Users\NAZARI\source\repos\Week-7\BankBenifits\obj\Debug\BankBenifits.pdb
+D:\Kateb\7th Semester\C#\Week-7\BankBenifits\bin\Debug\BankBenifits.exe.config
+D:\Kateb\7th Semester\C#\Week-7\BankBenifits\bin\Debug\BankBenifits.exe
+D:\Kateb\7th Semester\C#\Week-7\BankBenifits\bin\Debug\BankBenifits.pdb
+D:\Kateb\7th Semester\C#\Week-7\BankBenifits\obj\Debug\BankBenifits.csprojAssemblyReference.cache
+D:\Kateb\7th Semester\C#\Week-7\BankBenifits\obj\Debug\BankBenifits.csproj.CoreCompileInputs.cache
+D:\Kateb\7th Semester\C#\Week-7\BankBenifits\obj\Debug\BankBenifits.exe
+D:\Kateb\7th Semester\C#\Week-7\BankBenifits\obj\Debug\BankBenifits.pdb

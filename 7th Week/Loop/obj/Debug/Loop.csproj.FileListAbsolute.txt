@@ -1,0 +1,7 @@
+D:\Kateb\7th Semester\C#\Week-7\Loop\obj\Debug\Loop.csprojAssemblyReference.cache
+D:\Kateb\7th Semester\C#\Week-7\Loop\obj\Debug\Loop.csproj.CoreCompileInputs.cache
+D:\Kateb\7th Semester\C#\Week-7\Loop\bin\Debug\Loop.exe.config
+D:\Kateb\7th Semester\C#\Week-7\Loop\bin\Debug\Loop.exe
+D:\Kateb\7th Semester\C#\Week-7\Loop\bin\Debug\Loop.pdb
+D:\Kateb\7th Semester\C#\Week-7\Loop\obj\Debug\Loop.exe
+D:\Kateb\7th Semester\C#\Week-7\Loop\obj\Debug\Loop.pdb

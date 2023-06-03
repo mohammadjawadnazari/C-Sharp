@@ -1,0 +1,11 @@
+C:\Users\NAZARI\source\repos\Week-7\Branching\bin\Debug\Branching.exe.config
+C:\Users\NAZARI\source\repos\Week-7\Branching\bin\Debug\Branching.exe
+C:\Users\NAZARI\source\repos\Week-7\Branching\bin\Debug\Branching.pdb
+C:\Users\NAZARI\source\repos\Week-7\Branching\obj\Debug\Branching.csprojAssemblyReference.cache
+C:\Users\NAZARI\source\repos\Week-7\Branching\obj\Debug\Branching.csproj.CoreCompileInputs.cache
+C:\Users\NAZARI\source\repos\Week-7\Branching\obj\Debug\Branching.exe
+C:\Users\NAZARI\source\repos\Week-7\Branching\obj\Debug\Branching.pdb
+D:\Kateb\7th Semester\C#\Week-7\Branching\obj\Debug\Branching.csprojAssemblyReference.cache
+D:\Kateb\7th Semester\C#\Week-7\Branching\obj\Debug\Branching.csproj.CoreCompileInputs.cache
+D:\Kateb\7th Semester\C#\Week-7\Branching\obj\Debug\Branching.exe
+D:\Kateb\7th Semester\C#\Week-7\Branching\obj\Debug\Branching.pdb

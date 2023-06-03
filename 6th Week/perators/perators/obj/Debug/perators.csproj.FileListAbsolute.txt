@@ -1,0 +1,7 @@
+D:\Kateb\7th Semester\C#\Week 6\perators\perators\bin\Debug\perators.exe.config
+D:\Kateb\7th Semester\C#\Week 6\perators\perators\bin\Debug\perators.exe
+D:\Kateb\7th Semester\C#\Week 6\perators\perators\bin\Debug\perators.pdb
+D:\Kateb\7th Semester\C#\Week 6\perators\perators\obj\Debug\perators.csprojAssemblyReference.cache
+D:\Kateb\7th Semester\C#\Week 6\perators\perators\obj\Debug\perators.csproj.CoreCompileInputs.cache
+D:\Kateb\7th Semester\C#\Week 6\perators\perators\obj\Debug\perators.exe
+D:\Kateb\7th Semester\C#\Week 6\perators\perators\obj\Debug\perators.pdb

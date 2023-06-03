@@ -1,0 +1,7 @@
+D:\Kateb\7th Semester\C#\Week 6\perators\NameSpace\bin\Debug\NameSpace.exe.config
+D:\Kateb\7th Semester\C#\Week 6\perators\NameSpace\bin\Debug\NameSpace.exe
+D:\Kateb\7th Semester\C#\Week 6\perators\NameSpace\bin\Debug\NameSpace.pdb
+D:\Kateb\7th Semester\C#\Week 6\perators\NameSpace\obj\Debug\NameSpace.csproj.CoreCompileInputs.cache
+D:\Kateb\7th Semester\C#\Week 6\perators\NameSpace\obj\Debug\NameSpace.exe
+D:\Kateb\7th Semester\C#\Week 6\perators\NameSpace\obj\Debug\NameSpace.pdb
+D:\Kateb\7th Semester\C#\Week 6\perators\NameSpace\obj\Debug\NameSpace.csprojAssemblyReference.cache

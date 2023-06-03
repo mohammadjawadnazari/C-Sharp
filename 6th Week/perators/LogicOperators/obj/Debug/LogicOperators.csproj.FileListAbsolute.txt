@@ -1,0 +1,7 @@
+D:\Kateb\7th Semester\C#\Week 6\perators\LogicOperators\bin\Debug\LogicOperators.exe.config
+D:\Kateb\7th Semester\C#\Week 6\perators\LogicOperators\bin\Debug\LogicOperators.exe
+D:\Kateb\7th Semester\C#\Week 6\perators\LogicOperators\bin\Debug\LogicOperators.pdb
+D:\Kateb\7th Semester\C#\Week 6\perators\LogicOperators\obj\Debug\LogicOperators.csprojAssemblyReference.cache
+D:\Kateb\7th Semester\C#\Week 6\perators\LogicOperators\obj\Debug\LogicOperators.csproj.CoreCompileInputs.cache
+D:\Kateb\7th Semester\C#\Week 6\perators\LogicOperators\obj\Debug\LogicOperators.exe
+D:\Kateb\7th Semester\C#\Week 6\perators\LogicOperators\obj\Debug\LogicOperators.pdb

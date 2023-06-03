@@ -1,0 +1,7 @@
+D:\Kateb\7th Semester\C#\Student marks\HW\bin\Debug\HW.exe.config
+D:\Kateb\7th Semester\C#\Student marks\HW\bin\Debug\HW.exe
+D:\Kateb\7th Semester\C#\Student marks\HW\bin\Debug\HW.pdb
+D:\Kateb\7th Semester\C#\Student marks\HW\obj\Debug\HW.csprojAssemblyReference.cache
+D:\Kateb\7th Semester\C#\Student marks\HW\obj\Debug\HW.csproj.CoreCompileInputs.cache
+D:\Kateb\7th Semester\C#\Student marks\HW\obj\Debug\HW.exe
+D:\Kateb\7th Semester\C#\Student marks\HW\obj\Debug\HW.pdb

@@ -1,0 +1,7 @@
+D:\Kateb\7th Semester\C#\Week-9\JagetArea\JagetArea\obj\Debug\JagetArea.csprojAssemblyReference.cache
+D:\Kateb\7th Semester\C#\Week-9\JagetArea\JagetArea\obj\Debug\JagetArea.csproj.CoreCompileInputs.cache
+D:\Kateb\7th Semester\C#\Week-9\JagetArea\JagetArea\bin\Debug\JagetArea.exe.config
+D:\Kateb\7th Semester\C#\Week-9\JagetArea\JagetArea\bin\Debug\JagetArea.exe
+D:\Kateb\7th Semester\C#\Week-9\JagetArea\JagetArea\bin\Debug\JagetArea.pdb
+D:\Kateb\7th Semester\C#\Week-9\JagetArea\JagetArea\obj\Debug\JagetArea.exe
+D:\Kateb\7th Semester\C#\Week-9\JagetArea\JagetArea\obj\Debug\JagetArea.pdb

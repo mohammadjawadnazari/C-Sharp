@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JagetArea", "JagetArea\JagetArea.csproj", "{F14C4135-C696-47F2-9CE0-B457867ABE8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DJuggedArray", "2DJuggedArray\2DJuggedArray.csproj", "{6580160A-4ECA-41C0-B771-27D1F48AACDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F14C4135-C696-47F2-9CE0-B457867ABE8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14C4135-C696-47F2-9CE0-B457867ABE8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14C4135-C696-47F2-9CE0-B457867ABE8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F14C4135-C696-47F2-9CE0-B457867ABE8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6580160A-4ECA-41C0-B771-27D1F48AACDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6580160A-4ECA-41C0-B771-27D1F48AACDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6580160A-4ECA-41C0-B771-27D1F48AACDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6580160A-4ECA-41C0-B771-27D1F48AACDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9606453F-350F-4C09-85DA-4EC6BFDA5522}
+	EndGlobalSection
+EndGlobal

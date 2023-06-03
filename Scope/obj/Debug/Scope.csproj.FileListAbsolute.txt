@@ -1,0 +1,7 @@
+D:\Kateb\7th Semester\C#\ConsoleApp1\Scope\bin\Debug\Scope.exe.config
+D:\Kateb\7th Semester\C#\ConsoleApp1\Scope\bin\Debug\Scope.exe
+D:\Kateb\7th Semester\C#\ConsoleApp1\Scope\bin\Debug\Scope.pdb
+D:\Kateb\7th Semester\C#\ConsoleApp1\Scope\obj\Debug\Scope.csprojAssemblyReference.cache
+D:\Kateb\7th Semester\C#\ConsoleApp1\Scope\obj\Debug\Scope.csproj.CoreCompileInputs.cache
+D:\Kateb\7th Semester\C#\ConsoleApp1\Scope\obj\Debug\Scope.exe
+D:\Kateb\7th Semester\C#\ConsoleApp1\Scope\obj\Debug\Scope.pdb

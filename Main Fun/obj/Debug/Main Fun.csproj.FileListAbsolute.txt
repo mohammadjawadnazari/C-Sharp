@@ -1,0 +1,6 @@
+D:\Kateb\7th Semester\C#\ConsoleApp1\Main Fun\bin\Debug\Main Fun.exe.config
+D:\Kateb\7th Semester\C#\ConsoleApp1\Main Fun\bin\Debug\Main Fun.exe
+D:\Kateb\7th Semester\C#\ConsoleApp1\Main Fun\bin\Debug\Main Fun.pdb
+D:\Kateb\7th Semester\C#\ConsoleApp1\Main Fun\obj\Debug\Main Fun.csproj.CoreCompileInputs.cache
+D:\Kateb\7th Semester\C#\ConsoleApp1\Main Fun\obj\Debug\Main Fun.exe
+D:\Kateb\7th Semester\C#\ConsoleApp1\Main Fun\obj\Debug\Main Fun.pdb

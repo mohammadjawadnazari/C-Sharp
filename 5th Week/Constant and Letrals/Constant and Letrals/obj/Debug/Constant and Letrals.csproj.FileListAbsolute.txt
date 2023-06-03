@@ -1,0 +1,7 @@
+D:\Kateb\7th Semester\C#\Week-05\Constant and Letrals\Constant and Letrals\obj\Debug\Constant and Letrals.csprojAssemblyReference.cache
+D:\Kateb\7th Semester\C#\Week-05\Constant and Letrals\Constant and Letrals\obj\Debug\Constant and Letrals.csproj.CoreCompileInputs.cache
+D:\Kateb\7th Semester\C#\Week-05\Constant and Letrals\Constant and Letrals\bin\Debug\Constant and Letrals.exe.config
+D:\Kateb\7th Semester\C#\Week-05\Constant and Letrals\Constant and Letrals\bin\Debug\Constant and Letrals.exe
+D:\Kateb\7th Semester\C#\Week-05\Constant and Letrals\Constant and Letrals\bin\Debug\Constant and Letrals.pdb
+D:\Kateb\7th Semester\C#\Week-05\Constant and Letrals\Constant and Letrals\obj\Debug\Constant and Letrals.exe
+D:\Kateb\7th Semester\C#\Week-05\Constant and Letrals\Constant and Letrals\obj\Debug\Constant and Letrals.pdb

@@ -1,0 +1,7 @@
+D:\Kateb\7th Semester\C#\Week-05\Conversion\Conversion\bin\Debug\Conversion.exe.config
+D:\Kateb\7th Semester\C#\Week-05\Conversion\Conversion\bin\Debug\Conversion.exe
+D:\Kateb\7th Semester\C#\Week-05\Conversion\Conversion\bin\Debug\Conversion.pdb
+D:\Kateb\7th Semester\C#\Week-05\Conversion\Conversion\obj\Debug\Conversion.csprojAssemblyReference.cache
+D:\Kateb\7th Semester\C#\Week-05\Conversion\Conversion\obj\Debug\Conversion.csproj.CoreCompileInputs.cache
+D:\Kateb\7th Semester\C#\Week-05\Conversion\Conversion\obj\Debug\Conversion.exe
+D:\Kateb\7th Semester\C#\Week-05\Conversion\Conversion\obj\Debug\Conversion.pdb
